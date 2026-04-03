@@ -73,7 +73,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-border pt-6 md:flex-row">
           <p className="text-sm text-muted-foreground">
-            &copy; 2025 Loopout. All rights reserved.
+            &copy; 2025 Sonder. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             {/* LinkedIn */}

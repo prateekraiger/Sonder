@@ -15,9 +15,6 @@ export default function Home() {
         <Hero />
         <TrustBar />
         <NotesPreview />
-        <Platforms />
-        <Pricing />
-        <Features />
         <CTA />
       </main>
     </>

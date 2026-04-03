@@ -21,19 +21,19 @@ export function Header() {
         </Link>
         <nav aria-label="Main navigation" className="hidden items-center gap-8 md:flex">
           <Link
-            href="/#features"
+            href="/features"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
           >
             Features
           </Link>
           <Link
-            href="/#platforms"
+            href="/platforms"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
           >
             Platforms
           </Link>
           <Link
-            href="/#pricing"
+            href="/pricing"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
           >
             Pricing
@@ -47,13 +47,13 @@ export function Header() {
         </nav>
         <div className="flex items-center gap-3">
           <Link
-            href="#"
+            href="/login"
             className="hidden text-sm font-medium text-foreground transition-colors hover:text-muted-foreground sm:inline-block"
           >
             Log in
           </Link>
           <Link
-            href="#cta"
+            href="/login"
             className="rounded-full bg-foreground px-5 py-2 text-sm font-medium text-background transition-opacity hover:opacity-90"
           >
             Get Started

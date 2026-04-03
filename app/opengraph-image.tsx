@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og'
 
 export const runtime = 'edge'
-export const alt = 'Scribblit — Smart notebook for ideas, notes, and daily planning'
+export const alt = 'Sonder — Smart notebook for ideas, notes, and daily planning'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
@@ -75,7 +75,7 @@ export default async function Image() {
                 letterSpacing: '-0.02em',
               }}
             >
-              Scribblit
+              Sonder
             </span>
           </div>
 

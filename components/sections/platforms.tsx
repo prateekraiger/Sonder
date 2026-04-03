@@ -6,25 +6,25 @@ import Image from "next/image"
 
 const platforms = [
   {
-    title: "Nexus for Android",
+    title: "Sonder for Android",
     description:
       "Take notes on the go with fast, secure sync across all your devices. Capture thoughts instantly and access them anytime.",
     image: "/images/platform-android.jpg?v=3",
   },
   {
-    title: "Nexus for iOS",
+    title: "Sonder for iOS",
     description:
       "Jot down notes, organize with folders, and collaborate on shared projects — all from your iPhone or iPad.",
     image: "/images/platform-ios.jpg?v=3",
   },
   {
-    title: "Nexus for Windows / Linux",
+    title: "Sonder for Windows / Linux",
     description:
       "Work smarter on desktop. Enjoy seamless syncing, keyboard shortcuts, and distraction-free writing.",
     image: "/images/platform-desktop.jpg?v=3",
   },
   {
-    title: "Nexus for Web",
+    title: "Sonder for Web",
     description:
       "Access your notes anywhere with a responsive web app that loads in under 3 seconds.",
     image: "/images/platform-web.jpg?v=3",

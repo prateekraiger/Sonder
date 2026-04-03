@@ -75,7 +75,7 @@ export function StructuredData() {
   const websiteSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'Scribblit',
+    name: 'Sonder',
     url: siteUrl,
     description:
       'Capture thoughts instantly, organize with AI, and sync across all your devices.',
