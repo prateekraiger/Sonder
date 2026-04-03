@@ -1,4 +1,4 @@
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://scribblit.app'
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sonder.app'
 
 export function StructuredData() {
   const organizationSchema = {

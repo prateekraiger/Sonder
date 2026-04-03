@@ -18,7 +18,7 @@ const spaceGrotesk = Space_Grotesk({
   display: 'swap',
 })
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://scribblit.app'
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sonder.app'
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

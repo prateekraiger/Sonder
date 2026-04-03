@@ -134,7 +134,7 @@ export default async function Image() {
             fontSize: 16,
           }}
         >
-          <span>scribblit.app</span>
+          <span>sonder.app</span>
           <span>{'|'}</span>
           <span>Android</span>
           <span>{'|'}</span>
